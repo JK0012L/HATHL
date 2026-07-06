@@ -1,0 +1,24 @@
+================================================================================
+Heterogeneity Coupling Interaction Analysis Report (HV)
+================================================================================
+
+Design: 3-factor x 3-level full factorial x 12 base scenes (W/M grouped)
+  L1: 12-scene global two-way interaction
+  L2: Low/Med/High stratified comparison
+
+L1 Significant Interactions (HV):
+  No significant interactions
+
+L2 W/M Stratified Comparison:
+
+  Low W/M (<=0.3):
+    Worker: eta2=0.0055
+
+  Med W/M (0.3-0.6):
+    No significant interactions
+
+  High W/M (>=0.6):
+    Worker: eta2=0.0026
+
+================================================================================
+Report: 2026-06-13 12:43:43
