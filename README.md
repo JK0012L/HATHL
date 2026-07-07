@@ -170,19 +170,6 @@ All outputs are located under `test_result/experimental_analysis/{subdirectory}/
 
 ---
 
-## 7. Citation
-
-If this code is helpful to your research, please cite our paper:
-
-```bibtex
-@article{YourPaper2025,
-  title     = {Heterogeneity-Aware Transferable Hypervolume-based Learning for Multi-Objective Dynamic Job Shop Scheduling},
-  author    = {...},
-  journal   = {...},
-  year      = {2025}
-}
-```
-
 ---
 
 **For academic research and paper reproduction only.**
